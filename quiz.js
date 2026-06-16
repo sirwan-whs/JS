@@ -64,7 +64,6 @@ function checkAnswer(selectedAnswerIndex){
         score += 1;
     
     }
- 
   currentQuestionIndex++;
   displayQuestion();
 }
