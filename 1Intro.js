@@ -53,7 +53,7 @@ button3.onclick = function(){
     text3.style.display = "none"
 }
 
-let text4 = document.getElementById("demo3"); // muss demo3
+let text4 = document.getElementById("demo3"); // muss demo3 (show me text)
 let button4 = document.getElementById("showText");
 
 button4.onclick = function(){
