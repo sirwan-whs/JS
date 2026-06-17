@@ -23,3 +23,10 @@ let b = 6;
 let c = a + b;
 document.getElementById("demo3").innerHTML = "a + b = " + c;
 
+
+// das ist ein Kommentar.
+/*       hier sind einige Kommentare
+ere blabla 
+reetre
+*/
+
