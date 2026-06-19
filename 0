@@ -1,0 +1,20 @@
+Repository erstellen: Erstelle auf GitHub ein neues Repository.
+
+Klonen (Clone): Lade diesen Ordner mit Git auf deinen PC herunter
+-> Schritt 1: Terminal oder Eingabeaufforderung öffnen
+-> Schritt 2: Zum gewünschten Ordner navigieren
+cd Desktop/Projekte
+-> Schritt 3: Den Klon-Befehl ausführen
+git clone https://github.com/sirwanrashek/JS.git
+
+Um danach mit dem Programmieren zu starten
+cd JS
+code . (öffent VSC in Datei)
+
+Coden: Öffne den Ordner in VS Code und schreibe dein erstes JS-Skript 
+
+
+Speichern & Hochladen (Add, Commit, Push): 
+git add . (Sagt Git: "Merk dir diese neuen Dateien")
+git commit -m "Mein erstes Python Skript" (Schnürt ein Paket mit einer Nachricht)
+git push (Lädt das Paket hoch zu GitHub)
