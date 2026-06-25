@@ -25,8 +25,9 @@ function multiply(a, b) {
     return a * b;
   }
 
-   let sum = multiply(4, 3);
+  let sum = multiply(4, 3);
   document.getElementById("demo2").innerHTML = sum;
+  
 
 // A Function Can Be Used Many Times
 //function add(a, b) {
@@ -86,10 +87,10 @@ document.getElementById("demo6").innerHTML = greeting6;
 // Functions Without return
 //If a function does not return a value,
 //the return value will be undefined.
-function multiply(a, b) {
+function multiply2(a, b) {
   let x = a * b;
 }
-let result = multiply(4, 3);
+let result = multiply2(4, 3);
 document.getElementById("demo7").innerHTML ="das Ergebnis ist: " +result;
 
 function checkAge(age) {
