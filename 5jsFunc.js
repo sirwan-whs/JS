@@ -100,11 +100,15 @@ function checkAge(age) {
   return "Access granted";
 }
 
-function toCelsius(farenheit) {
-  return (5 / 9) * (farenheit - 32);
-}
-document.getElementById("").innerHTML = toCelsius(77);
+//function toCelsius(farenheit) {
+ //eturn (5 / 9) * (farenheit - 32);
+//
+//document.getElementById("demo8").innerHTML = toCelsius(77);
 
 //The Arguments Object
 // Topic to cover 
 // func fideMAx Min Sum sub
+
+
+
+
